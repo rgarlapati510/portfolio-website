@@ -3,6 +3,15 @@ import navIcon2 from '../assets/img/nav-icon2.png';
 let timelineElements = [
   {
     id: 1,
+    title: "Software Engineer",
+    location: "IBM",
+    description:
+      "Spearheading the implementation of Galasa for NetView test automation with goals of improving test efficiency and a >40% reduction in test time, leading team of 6 developers to impleemnt a recommendation ML model for IBM MaaS360 platform to reduce recommendation time by more than 70%.",
+    date: "July 2023 - Present",
+    icon: "IBM",
+  },
+  {
+    id: 2,
     title: "Communications Content Student Assistant",
     location: "Ray C. Anderson Center for Sustainable Business",
     description:
@@ -11,7 +20,7 @@ let timelineElements = [
     icon: "ACSB",
   },
   {
-    id: 2,
+    id: 3,
     title: "Software Engineering Intern",
     location: "IBM",
     description:
@@ -20,7 +29,7 @@ let timelineElements = [
     icon: "IBM",
   },
   {
-    id: 3,
+    id: 4,
     title: "Data Science & Network Engineering Intern",
     location: "Verizon",
     description:
@@ -29,7 +38,7 @@ let timelineElements = [
     icon: "Verizon",
   },
   {
-    id: 4,
+    id: 5,
     title: "Student, Computer Science",
     location: "Georgia Institute of Technology",
     description:
