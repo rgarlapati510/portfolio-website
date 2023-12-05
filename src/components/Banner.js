@@ -39,8 +39,8 @@ export const Banner = () => {
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>{`Hi! My name is Ruthvika Garlapati`} </h1>
-                    <p>I am currently a 4th year Computer Science Student at the Georgia Institute of Technology. My concentrations within my major include Artificial Intelligence and Human Computer Interaction. My goal is to use my skills to make a positive impact on peoples' lives, whether it be through developing new technologies, building tools to connect people across the world, or creating efficient systems. I am passionate about producing innovative solutions to real-world problems. </p>
-                    <a onClick={handleAnchorClick} href="https://drive.google.com/file/d/1lk0Z-l_17tsmkqGEP0CB7yd1bGhURHpa/view?usp=sharing" targer="blank" rel="noreferrer" style={linkStyle}>Resume        <ArrowRightCircle size={25} /></a>
+                    <p>I'm looking to find ways to draw a bridge between design and computer science through developing machine learning models while also exploring the connection between varying backend and frontend software tools. I have a strong background in Python, Java, JavaScript, Machine Learning, HTML, CSS, React, and Angular. I'm currently looking for opportunities to expand and showcase my skills in a collaborative and inspiring environment. </p>
+                    <a onClick={handleAnchorClick} href="https://drive.google.com/file/d/1DvtKtA-Wy4LmW7ldODY1-1F-vnTg4etN/view?usp=sharing" targer="blank" rel="noreferrer" style={linkStyle}>Resume        <ArrowRightCircle size={25} /></a>
                 </div>}
               </TrackVisibility>
             </Col>
