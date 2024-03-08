@@ -6,21 +6,21 @@ let timelineElements = [
     title: "Software Engineer",
     location: "IBM",
     description:
-      "Spearheading the implementation of Galasa for NetView test automation with goals of improving test efficiency and a >40% reduction in test time, leading team of 6 developers to impleemnt a recommendation ML model for IBM MaaS360 platform to reduce recommendation time by more than 70%.",
+      "Driving backend data processing within IBM’s Watson Code Assistant for Z, utilizing API calls for data extraction and leveraging Apache Maven to generate critical information intended for the automation of test generation for code functionality and evaluation. Spearheaded the implementation of Galasa for deep integration testing of IBM Z NetView to ensure a seamless transition and functionality retention between successive technology iterations, resulting in a > 80% reduction in test time. Directed a team of 6 engineers in utilizing the K-Means algorithm to formulate strategic policy recommendations to help facilitate IT administrators in enhancing security measures for IBM MaaS360 users’ devices",
     date: "July 2023 - Present",
     icon: "IBM",
   },
+  // {
+  //   id: 2,
+  //   title: "Communications Content Student Assistant",
+  //   location: "Ray C. Anderson Center for Sustainable Business",
+  //   description:
+  //     "Manage digital content and web platforms through leveraging WordPress, Illustrator, Cascade CMS, and other tools. Creating graphics for events, speaker series, and week-to-week content to advertise sustainable business solutions.",
+  //   date: "September 2021 - May 2024",
+  //   icon: "ACSB",
+  // },
   {
     id: 2,
-    title: "Communications Content Student Assistant",
-    location: "Ray C. Anderson Center for Sustainable Business",
-    description:
-      "Manage digital content and web platforms through leveraging WordPress, Illustrator, Cascade CMS, and other tools. Creating graphics for events, speaker series, and week-to-week content to advertise sustainable business solutions.",
-    date: "September 2021 - Present",
-    icon: "ACSB",
-  },
-  {
-    id: 3,
     title: "Software Engineering Intern",
     location: "IBM",
     description:
@@ -29,7 +29,7 @@ let timelineElements = [
     icon: "IBM",
   },
   {
-    id: 4,
+    id: 3,
     title: "Data Science & Network Engineering Intern",
     location: "Verizon",
     description:
@@ -38,12 +38,12 @@ let timelineElements = [
     icon: "Verizon",
   },
   {
-    id: 5,
+    id: 4,
     title: "Student, Computer Science",
     location: "Georgia Institute of Technology",
     description:
       "Majoring in Computer Science with concentrations in Artificial Intelligence and Human Computer Interaction. Relevant coursework include Object-oriented programming, Data Structures and Algorithms, Machine Learning, Artificial Intelligence, Computer Vision, Human-Computer Interaction, and many more. Recognized on the Dean's list from 2019 to present. Will graduate May 2023.",
-    date: "August 2019 - Present",
+    date: "August 2019 - May 2023",
     icon: <img src={navIcon2} alt="" />,
   },
 ];
