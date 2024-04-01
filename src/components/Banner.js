@@ -40,7 +40,7 @@ export const Banner = () => {
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>{`Hi! My name is Ruthvika Garlapati`} </h1>
                     <p>I'm looking to find ways to draw a bridge between design and computer science through developing machine learning models while also exploring the connection between varying backend and frontend software tools. I have a strong background in Python, Java, JavaScript, Machine Learning, HTML, CSS, React, and Angular. I'm currently looking for opportunities to expand and showcase my skills in a collaborative and inspiring environment. </p>
-                    <a onClick={handleAnchorClick} href="https://drive.google.com/file/d/1sZaa0qCR8VLrSPQURt14oO72Z5zHWOPe/view?usp=sharing" targer="blank" rel="noreferrer" style={linkStyle}>Resume        <ArrowRightCircle size={25} /></a>
+                    <a onClick={handleAnchorClick} href="https://drive.google.com/file/d/1FG6tmXErBM5h1GdbgsM75uA6R5yhN6dW/view?usp=sharing" targer="blank" rel="noreferrer" style={linkStyle}>Resume        <ArrowRightCircle size={25} /></a>
                 </div>}
               </TrackVisibility>
             </Col>
